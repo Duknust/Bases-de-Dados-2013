@@ -1,0 +1,2 @@
+correcção no nome das properties
+remover referencias a OracleConnectionBroker no SQLiteConnectionBroker
